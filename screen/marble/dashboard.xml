@@ -216,6 +216,11 @@ along with this software (see the LICENSE.md file). If not, see
                 <container><link text="Facilities" url="../Facility" link-type="anchor"/></container>
                 <container><link text="Stores" url="../ProductStore" link-type="anchor"/></container>
             </container>
+
+            <label text="&amp;nbsp;" encode="false" type="div"/>
+            <container style="diagram-sequence-item">
+                <container><link text="Devices" url="../Device" link-type="anchor" style="text-strong"/></container>
+            </container>
             <container style="diagram-sequence-item">
                 <container>
                     <label text="Content: "/>
